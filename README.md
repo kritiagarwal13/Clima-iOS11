@@ -1,2 +1,2 @@
 # Clima-iOS11
-Climate checking app
+Climate checking app for iOS.
